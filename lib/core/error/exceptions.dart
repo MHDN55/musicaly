@@ -1,0 +1,1 @@
+class DeviceSongsExeption implements Exception {}
